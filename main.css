@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; margin: 2em; }
+    label { display: block; margin-top: 1em; }
+    input[type="text"] { width: 250px; font-size: 1em; }
+    button { font-size: 1em; margin-top: 1em; margin-right: 0.5em; }
+    #output { margin-top: 2em; font-size: 1.1em; }
